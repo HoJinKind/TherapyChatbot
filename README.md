@@ -1,4 +1,4 @@
 # TherapyChatbot
 
-link to chatbot:t.me/TaC_bot_bot
-using dialogFlow to create simple chatBot which is capable to recognise person's intent through words like 'sad', 'lonely'
+link to chatbot:[telegram link](t.me/TaC_bot_bot)
+<br/>using dialogFlow to create simple chatBot which is capable to recognise person's intent through words like 'sad', 'lonely'
